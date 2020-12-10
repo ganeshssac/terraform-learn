@@ -2,4 +2,4 @@
 */teraform.tfstate
 */terraform.tfstate.backup
 .terraform
-*/mykey*
+mykey*
